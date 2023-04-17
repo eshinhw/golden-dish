@@ -17,11 +17,11 @@
 
 Are you tired of looking for upscale dining experience verified by real customers not advertised by fake customers who get paid for ads? You can sign up Golden Dish where you can find real upscale dining experiences by real customers.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 ## Getting Started
 
-First, run the development server:
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). First, run the development server:
 
 ```bash
 npm run dev
