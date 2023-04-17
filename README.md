@@ -1,3 +1,9 @@
+<div align="center">
+
+  ![coollogo_com-44991879](https://user-images.githubusercontent.com/41933169/232362132-8b2fadd8-d894-4b25-b82b-e2ade16dad05.png)
+
+</div>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
