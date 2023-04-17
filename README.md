@@ -15,7 +15,7 @@
 
 ## Motivation
 
-Are you tired of looking for upscale dining experience verified by real customers not advertised by fake customers who get paid for ads? You can sign up Golden Dish where you can find real upscale dining experiences by real customers.
+Are you tired of looking for upscale dining experience verified by real customers not advertised by fake customers who get paid for ads? You can sign up Golden Dish where you can find real upscale dining experiences shared by real customers.
 
 
 
