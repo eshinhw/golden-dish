@@ -1,5 +1,11 @@
+import Cuisines from "./components/Cuisines";
+import Navbar from "./components/Navbar/Navbar";
+
 export default function HomePage() {
   return (
-    <main>Hello!</main>
-  )
+    <main>
+      <Navbar />
+      {/* <Cuisines /> */}
+    </main>
+  );
 }
