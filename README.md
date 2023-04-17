@@ -4,6 +4,15 @@
 
 </div>
 
+<div align="center">
+
+  ![NPM](https://img.shields.io/npm/l/nextjs)
+  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/eshinhw/golden-dish)
+  ![GitHub issues](https://img.shields.io/github/issues/eshinhw/golden-dish)
+  ![GitHub pull requests](https://img.shields.io/github/issues-pr/eshinhw/golden-dish)
+  
+</div>
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
