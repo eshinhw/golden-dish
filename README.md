@@ -17,7 +17,7 @@
 
 A collection of high-end restaurants in Toronto, Canada. You can sign up Golden Dish to find real upscale dining experiences shared by real customers.
 
-## Dependencies
+## External Dependencies
 
 - axios
 - react-hook-form
