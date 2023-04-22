@@ -17,6 +17,13 @@
 
 A collection of high-end restaurants in Toronto, Canada. You can sign up Golden Dish to find real upscale dining experiences shared by real customers.
 
+## Dependencies
+
+- axios
+- react-hook-form
+- react-icons
+- zustand
+
 ## Getting Started
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). First, run the development server:
